@@ -125,7 +125,7 @@ begging student
 //	return 0;
 //
 //}
-//陶陶摘苹果问题的答案（未写全）
+//
 //int main()
 //{
 //	int counter = 0;
